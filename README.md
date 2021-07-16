@@ -1,2 +1,2 @@
 # simple-webpack-starter
-A simple webpack boilerplate to start from
+Simple webpack 5 boilerplate with Typescript and React support
